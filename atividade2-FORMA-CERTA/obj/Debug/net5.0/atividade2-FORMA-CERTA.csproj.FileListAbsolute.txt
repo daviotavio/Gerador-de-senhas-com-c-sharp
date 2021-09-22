@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\atividade2-FORMA-CERTA.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\atividade2-FORMA-CERTA.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\atividade2-FORMA-CERTA.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\atividade2-FORMA-CERTA.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\atividade2-FORMA-CERTA.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\ref\atividade2-FORMA-CERTA.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\bin\Debug\net5.0\atividade2-FORMA-CERTA.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\ref\atividade2-FORMA-CERTA.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\Senac\UC03\atividade2-FORMA-CERTA\obj\Debug\net5.0\atividade2-FORMA-CERTA.genruntimeconfig.cache
